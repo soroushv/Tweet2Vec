@@ -1,5 +1,5 @@
 # Tweet2Vec
-Refer: [Tweet2Vec: Learning Tweet Embeddings Using Character-level CNN-LSTM Encoder-Decoder](http://dx.doi.org/10.1145/2911451.2914762)
+Please Cite: [Soroush Vosoughi, Prashanth Vijayaraghavan and Deb Roy. (2016). Tweet2Vec: Learning Tweet Embeddings using Character-level CNN-LSTM Encoder-Decoder. In Proceedings of the 39th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2016). Pisa, Italy.](http://dx.doi.org/10.1145/2911451.2914762)
 ##Requirements
 1. numpy
 2. Theano
